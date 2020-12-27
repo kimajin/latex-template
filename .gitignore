@@ -9,6 +9,4 @@
 *.out
 *.run.xml
 *.synctex.gz
-
-# VSCode setting
-.vscode/
+*.toc
